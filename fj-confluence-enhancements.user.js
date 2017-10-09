@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Family Justice Confluence Enhancements
-// @namespace    https://github.com/ministryofjustice/fj-confluence-enhancement/raw/master/fj-confluence-enhancements.user.js
-// @version      0.1.1
+// @namespace    https://raw.githubusercontent.com/ministryofjustice/fj-confluence-enhancement/master/fj-confluence-enhancements.user.js
+// @version      0.1.2
 // @description  Make Confluence more useful
 // @author       alex.robinson@digital.justice.gov.uk
 // @match        https://dsdmoj.atlassian.net/wiki/spaces/*
